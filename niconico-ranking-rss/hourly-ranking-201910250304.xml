@@ -1,0 +1,29 @@
+<?xml version="1.0" encoding="utf-8"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    
+      <title>動画ランキング - ニコニコ動画</title>
+      <link>http://www.nicovideo.jp/ranking/fav/hourly/all</link>
+      <description></description>
+      <pubDate>Fri, 25 Oct 2019 12:04:35 +0900</pubDate>
+      <lastBuildDate>Fri, 25 Oct 2019 12:04:35 +0900</lastBuildDate>
+      <generator>ニコニコ動画</generator>
+      <language>ja-jp</language>
+      <copyright>(c) DWANGO Co., Ltd.</copyright>
+      <docs>http://blogs.law.harvard.edu/tech/rss</docs>
+    
+  <atom:link rel="self" type="application/rss+xml" href="https://www.nicovideo.jp/ranking/fav/hourly/all?rss=2.0"/>
+
+    
+  <item>
+    <title>ランキングは新しくなりました</title>
+    <link>https://dwango.github.io/niconico/genre_ranking/ranking_rss/</link>
+    <pubDate>Fri, 25 Oct 2019 12:04:35 +0900</pubDate>
+    <description><![CDATA[
+      新ランキングでのランキングRSS利用方法はリンク先をご確認ください。
+    ]]></description>
+  </item>
+
+  </channel>
+</rss>
+

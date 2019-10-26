@@ -1,0 +1,901 @@
+<?xml version="1.0" encoding="utf-8"?>
+
+	<feed xmlns:im="http://itunes.apple.com/rss" xmlns="http://www.w3.org/2005/Atom" xml:lang="ja">
+		<id>https://itunes.apple.com/jp/rss/topsongs/limit=10/xml</id><title>iTunes Store: トップソング</title><updated>2019-10-24T19:52:03-07:00</updated><link rel="alternate" type="text/html" href="https://itunes.apple.com/WebObjects/MZStore.woa/wa/viewTop?cc=jp&amp;id=1000&amp;popId=1"/><link rel="self" href="https://itunes.apple.com/jp/rss/topsongs/limit=10/xml"/><icon>http://itunes.apple.com/favicon.ico</icon><author><name>iTunes Store</name><uri>http://www.apple.com/jp/itunes/</uri></author><rights>Copyright 2008 Apple Inc.</rights>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1478109979">https://music.apple.com/jp/album/%E9%A6%AC%E3%81%A8%E9%B9%BF/1478109978?i=1478109979&amp;uo=2</id>
+				
+					<title>馬と鹿 - 米津玄師</title>
+				
+					
+				
+					<im:name>馬と鹿</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E9%A6%AC%E3%81%A8%E9%B9%BF/1478109978?i=1478109979&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/df/a3/51/dfa35147-87e0-aea3-2d48-02659c04ee69/mzaf_16381318338174336816.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2">米津玄師</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music113/v4/e0/31/58/e0315848-32cd-ed1e-80fa-411bd0730911/jacket_SECL02497B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e0/31/58/e0315848-32cd-ed1e-80fa-411bd0730911/jacket_SECL02497B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/e0/31/58/e0315848-32cd-ed1e-80fa-411bd0730911/jacket_SECL02497B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 Sony Music Labels Inc.</rights>
+				
+					<im:releaseDate label="2019年8月12日 ">2019-08-12T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>馬と鹿 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E9%A6%AC%E3%81%A8%E9%B9%BF-single/1478109978?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%AC%E3%81%A8%E9%B9%BF/1478109978?i=1478109979&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;米津玄師 - 馬と鹿 アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/e0/31/58/e0315848-32cd-ed1e-80fa-411bd0730911/jacket_SECL02497B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%AC%E3%81%A8%E9%B9%BF/1478109978?i=1478109979&amp;uo=2&quot;&gt;馬と鹿&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E9%A6%AC%E3%81%A8%E9%B9%BF-single/1478109978?uo=2&quot;&gt;馬と鹿 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/%E7%B1%B3%E6%B4%A5%E7%8E%84%E5%B8%AB/530814268?uo=2&quot;&gt;米津玄師&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年8月12日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1483002535">https://music.apple.com/jp/album/q-vism/1483002532?i=1483002535&amp;uo=2</id>
+				
+					<title>Q-vism - Who-ya Extended</title>
+				
+					
+				
+					<im:name>Q-vism</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/q-vism/1483002532?i=1483002535&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/b1/f3/f8/b1f3f894-2f46-55cf-68fc-d349ff775d8b/mzaf_13599072798156764081.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/who-ya-extended/1483002533?uo=2">Who-ya Extended</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ea/d2/fdead24c-aff9-2f28-aa66-8b15fc26bf20/jacket_SEXX01889B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ea/d2/fdead24c-aff9-2f28-aa66-8b15fc26bf20/jacket_SEXX01889B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ea/d2/fdead24c-aff9-2f28-aa66-8b15fc26bf20/jacket_SEXX01889B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 Sony Music Labels Inc.</rights>
+				
+					<im:collection><im:name>Q-vism - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/q-vism-ep/1483002532?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/q-vism/1483002532?i=1483002535&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Who-ya Extended - Q-vism アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/fd/ea/d2/fdead24c-aff9-2f28-aa66-8b15fc26bf20/jacket_SEXX01889B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/q-vism/1483002532?i=1483002535&amp;uo=2&quot;&gt;Q-vism&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/q-vism-ep/1483002532?uo=2&quot;&gt;Q-vism - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/who-ya-extended/1483002533?uo=2&quot;&gt;Who-ya Extended&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1480622916">https://music.apple.com/jp/album/unlasting/1480622915?i=1480622916&amp;uo=2</id>
+				
+					<title>unlasting - LiSA</title>
+				
+					
+				
+					<im:name>unlasting</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/unlasting/1480622915?i=1480622916&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/33/99/0d/33990d81-009d-c553-c236-bd43aa76b54d/mzaf_6333810133857859164.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/lisa/573943518?uo=2">LiSA</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/a1/38/b4/a138b431-1f66-b8f1-508c-3653ec63660b/jacket_VVXX00473B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music123/v4/a1/38/b4/a138b431-1f66-b8f1-508c-3653ec63660b/jacket_VVXX00473B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/a1/38/b4/a138b431-1f66-b8f1-508c-3653ec63660b/jacket_VVXX00473B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 Sony Music Labels Inc.</rights>
+				
+					<im:releaseDate label="2019年10月21日 ">2019-10-21T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>unlasting - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/unlasting-single/1480622915?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/unlasting/1480622915?i=1480622916&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;LiSA - unlasting アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/a1/38/b4/a138b431-1f66-b8f1-508c-3653ec63660b/jacket_VVXX00473B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/unlasting/1480622915?i=1480622916&amp;uo=2&quot;&gt;unlasting&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/unlasting-single/1480622915?uo=2&quot;&gt;unlasting - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/lisa/573943518?uo=2&quot;&gt;LiSA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年10月21日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 Sony Music Labels Inc.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1459216694">https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2</id>
+				
+					<title>Pretender - Official髭男dism</title>
+				
+					
+				
+					<im:name>Pretender</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/fa/17/3f/fa173f3a-26be-c0a2-9113-4d81fe7b0bfb/mzaf_4753248623521236962.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308?uo=2">Official髭男dism</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 PONY CANYON INC.</rights>
+				
+					<im:releaseDate label="2019年4月17日 ">2019-04-17T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Pretender - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/pretender-single/1459216693?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Official髭男dism - Pretender アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/1b/a6/d8/1ba6d881-4444-8a2f-4f10-8ba4a2307a5f/PCCA_04785.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/pretender/1459216693?i=1459216694&amp;uo=2&quot;&gt;Pretender&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/pretender-single/1459216693?uo=2&quot;&gt;Pretender - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308?uo=2&quot;&gt;Official髭男dism&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月17日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 PONY CANYON INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1451896732">https://music.apple.com/jp/album/%E7%99%BD%E6%97%A5/1451896731?i=1451896732&amp;uo=2</id>
+				
+					<title>白日 - King Gnu</title>
+				
+					
+				
+					<im:name>白日</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%99%BD%E6%97%A5/1451896731?i=1451896732&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="20" term="Alternative" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96/id20?uo=2" label="オルタナティブ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview114/v4/21/fa/a9/21faa942-15e6-1f50-e8ba-da0e8c68df43/mzaf_4095342760638102696.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/king-gnu/1258439196?uo=2">King Gnu</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is4-ssl.mzstatic.com/image/thumb/Music124/v4/ed/8a/c8/ed8ac8c5-7bc7-c69e-15bd-86153cc06671/jacket_BVXX01177B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music124/v4/ed/8a/c8/ed8ac8c5-7bc7-c69e-15bd-86153cc06671/jacket_BVXX01177B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music124/v4/ed/8a/c8/ed8ac8c5-7bc7-c69e-15bd-86153cc06671/jacket_BVXX01177B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 Ariola Japan</rights>
+				
+					<im:releaseDate label="2019年2月22日 ">2019-02-22T04:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>白日 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%99%BD%E6%97%A5-single/1451896731?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%99%BD%E6%97%A5/1451896731?i=1451896732&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;King Gnu - 白日 アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music124/v4/ed/8a/c8/ed8ac8c5-7bc7-c69e-15bd-86153cc06671/jacket_BVXX01177B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E7%99%BD%E6%97%A5/1451896731?i=1451896732&amp;uo=2&quot;&gt;白日&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%99%BD%E6%97%A5-single/1451896731?uo=2&quot;&gt;白日 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/king-gnu/1258439196?uo=2&quot;&gt;King Gnu&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%AA%E3%83%AB%E3%82%BF%E3%83%8A%E3%83%86%E3%82%A3%E3%83%96/id20?uo=2&quot;&gt;オルタナティブ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年2月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 Ariola Japan&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1479397583">https://music.apple.com/jp/album/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4/1479397582?i=1479397583&amp;uo=2</id>
+				
+					<title>イエスタデイ - Official髭男dism</title>
+				
+					
+				
+					<im:name>イエスタデイ</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4/1479397582?i=1479397583&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/fd/c5/a4/fdc5a413-cdb7-0d90-9f34-1b154951f307/mzaf_4314164263445561701.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308?uo=2">Official髭男dism</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is2-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 PONYCANYON</rights>
+				
+					<im:releaseDate label="2019年9月11日 ">2019-09-11T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Traveler</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/traveler/1479397582?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4/1479397582?i=1479397583&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;Official髭男dism - イエスタデイ アートワーク&quot; src=&quot;https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/9c/7d/88/9c7d883d-4477-bf68-f56f-a726030a63a2/PCCA_04822.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E3%82%A4%E3%82%A8%E3%82%B9%E3%82%BF%E3%83%87%E3%82%A4/1479397582?i=1479397583&amp;uo=2&quot;&gt;イエスタデイ&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/traveler/1479397582?uo=2&quot;&gt;Traveler&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/official%E9%AB%AD%E7%94%B7dism/960568308?uo=2&quot;&gt;Official髭男dism&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年9月11日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 PONYCANYON&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1480479450">https://music.apple.com/jp/album/phantom-joke/1480479449?i=1480479450&amp;uo=2</id>
+				
+					<title>Phantom Joke - UNISON SQUARE GARDEN</title>
+				
+					
+				
+					<im:name>Phantom Joke</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/phantom-joke/1480479449?i=1480479450&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="27" term="J-Pop" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2" label="J-Pop"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/6c/8e/3f/6c8e3fa3-1d1e-c2e5-7dd6-41fe867f22c9/mzaf_12097892096486604336.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/unison-square-garden/270311351?uo=2">UNISON SQUARE GARDEN</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/78/f6/c1/78f6c1b8-d586-9af5-cc8c-ec187352f90b/TFCC-89675WW.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/78/f6/c1/78f6c1b8-d586-9af5-cc8c-ec187352f90b/TFCC-89675WW.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/78/f6/c1/78f6c1b8-d586-9af5-cc8c-ec187352f90b/TFCC-89675WW.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 TOY&#39;S FACTORY</rights>
+				
+					<im:releaseDate label="2019年10月11日 ">2019-10-11T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>Phantom Joke - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/phantom-joke-single/1480479449?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/phantom-joke/1480479449?i=1480479450&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;UNISON SQUARE GARDEN - Phantom Joke アートワーク&quot; src=&quot;https://is2-ssl.mzstatic.com/image/thumb/Music123/v4/78/f6/c1/78f6c1b8-d586-9af5-cc8c-ec187352f90b/TFCC-89675WW.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/phantom-joke/1480479449?i=1480479450&amp;uo=2&quot;&gt;Phantom Joke&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/phantom-joke-single/1480479449?uo=2&quot;&gt;Phantom Joke - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/unison-square-garden/270311351?uo=2&quot;&gt;UNISON SQUARE GARDEN&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-j-pop/id27?uo=2&quot;&gt;J-Pop&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年10月11日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 TOY'S FACTORY&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1466937138">https://music.apple.com/jp/album/%E5%85%B5-%E8%B5%B0%E3%82%8B/1466937136?i=1466937138&amp;uo=2</id>
+				
+					<title>兵、走る - B&#39;z</title>
+				
+					
+				
+					<im:name>兵、走る</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E5%85%B5-%E8%B5%B0%E3%82%8B/1466937136?i=1466937138&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="21" term="Rock" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2" label="ロック"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/d3/29/f0/d329f0f6-30c3-7e32-87a2-00922ddc2376/mzaf_14483837300304765823.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/bz/74931253?uo=2">B&#39;z</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is1-ssl.mzstatic.com/image/thumb/Music123/v4/6b/02/d8/6b02d883-d799-8448-b954-6dde096f4eba/BMCV-8056.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/6b/02/d8/6b02d883-d799-8448-b954-6dde096f4eba/BMCV-8056.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/6b/02/d8/6b02d883-d799-8448-b954-6dde096f4eba/BMCV-8056.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; Being,INC.</rights>
+				
+					<im:releaseDate label="2019年5月29日 ">2019-05-29T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>NEW LOVE</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/new-love/1466937136?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E5%85%B5-%E8%B5%B0%E3%82%8B/1466937136?i=1466937138&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;B'z - 兵、走る アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music123/v4/6b/02/d8/6b02d883-d799-8448-b954-6dde096f4eba/BMCV-8056.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E5%85%B5-%E8%B5%B0%E3%82%8B/1466937136?i=1466937138&amp;uo=2&quot;&gt;兵、走る&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/new-love/1466937136?uo=2&quot;&gt;NEW LOVE&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/bz/74931253?uo=2&quot;&gt;B'z&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%83%AD%E3%83%83%E3%82%AF/id21?uo=2&quot;&gt;ロック&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年5月29日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ Being,INC.&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1459242780">https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2</id>
+				
+					<title>紅蓮華 - LiSA</title>
+				
+					
+				
+					<im:name>紅蓮華</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview113/v4/7f/15/7a/7f157ae3-c787-3ecb-6b3e-cb896bb29e31/mzaf_6078087960747745577.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/lisa/573943518?uo=2">LiSA</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 SACRA MUSIC</rights>
+				
+					<im:releaseDate label="2019年4月22日 ">2019-04-22T05:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>紅蓮華 - Single</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF-single/1459242779?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;LiSA - 紅蓮華 アートワーク&quot; src=&quot;https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/d4/93/c3/d493c3d0-303d-18bb-b92b-3f53ed03e213/jacket_VVXX00413B01A_550.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF/1459242779?i=1459242780&amp;uo=2&quot;&gt;紅蓮華&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/%E7%B4%85%E8%93%AE%E8%8F%AF-single/1459242779?uo=2&quot;&gt;紅蓮華 - Single&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/lisa/573943518?uo=2&quot;&gt;LiSA&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年4月22日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 SACRA MUSIC&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+			<entry>
+				<updated>2019-10-24T19:52:03-07:00</updated>
+				
+					<id im:id="1482354021">https://music.apple.com/jp/album/tit-for-tat/1482354020?i=1482354021&amp;uo=2</id>
+				
+					<title>TIT FOR TAT - MYTH &amp; ROID</title>
+				
+					
+				
+					<im:name>TIT FOR TAT</im:name>
+				
+					<link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/tit-for-tat/1482354020?i=1482354021&amp;uo=2"/>
+				
+					<im:contentType term="Music" label="ミュージック"><im:contentType term="Track" label="トラック"/></im:contentType>
+				
+					<category im:id="29" term="Anime" scheme="https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2" label="アニメ"/>
+				
+					<link title="プレビュー" rel="enclosure" type="audio/x-m4a" href="https://audio-ssl.itunes.apple.com/itunes-assets/AudioPreview123/v4/eb/d4/1d/ebd41de2-ce64-87bd-ea50-c745586a569e/mzaf_15623350139133694485.plus.aac.p.m4a" im:assetType="preview"><im:duration>30000</im:duration></link>
+				
+					<im:artist href="https://music.apple.com/jp/artist/myth-roid/1041273775?uo=2">MYTH &amp; ROID</im:artist>
+				
+					<im:price amount="250.00000" currency="JPY">¥250</im:price>
+				
+					<im:image height="55">https://is3-ssl.mzstatic.com/image/thumb/Music113/v4/ee/f5/c5/eef5c5f5-a5d5-7a2a-49b5-d2ff2d404991/JK_ZMCZ-13571.jpg/55x55bb.png</im:image>
+				
+					<im:image height="60">https://is5-ssl.mzstatic.com/image/thumb/Music113/v4/ee/f5/c5/eef5c5f5-a5d5-7a2a-49b5-d2ff2d404991/JK_ZMCZ-13571.jpg/60x60bb.png</im:image>
+				
+					<im:image height="170">https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/ee/f5/c5/eef5c5f5-a5d5-7a2a-49b5-d2ff2d404991/JK_ZMCZ-13571.jpg/170x170bb.png</im:image>
+				
+					<rights>&#8471; 2019 KADOKAWA CORPORATION</rights>
+				
+					<im:releaseDate label="2019年10月23日 ">2019-10-23T00:00:00-07:00</im:releaseDate>
+				
+					<im:collection><im:name>TVアニメ「慎重勇者」オープニングテーマ「TIT FOR TAT」 - EP</im:name><link rel="alternate" type="text/html" href="https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E6%85%8E%E9%87%8D%E5%8B%87%E8%80%85-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-tit-for-tat-ep/1482354020?uo=2"/><im:contentType term="Music" label="ミュージック"><im:contentType term="Album" label="アルバム"/></im:contentType></im:collection>
+				
+				
+					<content type="html">&lt;table border=&quot;0&quot; width=&quot;100%&quot;&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            &lt;table border=&quot;0&quot; width=&quot;100%&quot; cellspacing=&quot;0&quot; cellpadding=&quot;0&quot;&gt;
+                &lt;tr valign=&quot;top&quot; align=&quot;left&quot;&gt;
+                    
+                        &lt;td align=&quot;center&quot; width=&quot;166&quot; valign=&quot;top&quot;&gt;
+                            &lt;a href=&quot;https://music.apple.com/jp/album/tit-for-tat/1482354020?i=1482354021&amp;uo=2&quot;&gt;&lt;img border=&quot;0&quot; alt=&quot;MYTH &amp; ROID - TIT FOR TAT アートワーク&quot; src=&quot;https://is4-ssl.mzstatic.com/image/thumb/Music113/v4/ee/f5/c5/eef5c5f5-a5d5-7a2a-49b5-d2ff2d404991/JK_ZMCZ-13571.jpg/100x100bb.png&quot; /&gt;&lt;/a&gt;
+                        &lt;/td&gt;
+                        &lt;td width=&quot;10&quot;&gt;&lt;img alt=&quot;&quot; width=&quot;10&quot; height=&quot;1&quot; src=&quot;https://s.mzstatic.com/images/spacer.gif&quot; /&gt;&lt;/td&gt;
+                    	&lt;td width=&quot;95%&quot;&gt;
+                    
+                    
+                        &lt;b&gt;&lt;a href=&quot;https://music.apple.com/jp/album/tit-for-tat/1482354020?i=1482354021&amp;uo=2&quot;&gt;TIT FOR TAT&lt;/a&gt;&lt;/b&gt;&lt;br/&gt;
+                        
+                        
+                        
+                        
+                            &lt;a href=&quot;https://music.apple.com/jp/album/tv%E3%82%A2%E3%83%8B%E3%83%A1-%E6%85%8E%E9%87%8D%E5%8B%87%E8%80%85-%E3%82%AA%E3%83%BC%E3%83%97%E3%83%8B%E3%83%B3%E3%82%B0%E3%83%86%E3%83%BC%E3%83%9E-tit-for-tat-ep/1482354020?uo=2&quot;&gt;TVアニメ「慎重勇者」オープニングテーマ「TIT FOR TAT」 - EP&lt;/a&gt;&lt;br/&gt;
+                        
+
+                        &lt;a href=&quot;https://music.apple.com/jp/artist/myth-roid/1041273775?uo=2&quot;&gt;MYTH &amp;amp; ROID&lt;/a&gt;
+
+                       &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt;
+						
+						 	&lt;br/&gt;
+                            &lt;b&gt;ジャンル:&lt;/b&gt; &lt;a href=&quot;https://music.apple.com/jp/genre/%E3%83%9F%E3%83%A5%E3%83%BC%E3%82%B8%E3%83%83%E3%82%AF-%E3%82%A2%E3%83%8B%E3%83%A1/id29?uo=2&quot;&gt;アニメ&lt;/a&gt;
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;価格:&lt;/b&gt; ¥250
+                        
+						 	&lt;br/&gt;
+                            &lt;b&gt;リリース日:&lt;/b&gt; 2019年10月23日 
+                        
+                        &lt;/font&gt;
+                    &lt;/td&gt;
+                &lt;/tr&gt;
+            &lt;/table&gt;
+        &lt;/td&gt;
+    &lt;/tr&gt;
+    &lt;tr&gt;
+        &lt;td&gt;
+            
+            
+            
+                &lt;font size=&quot;2&quot; face=&quot;Helvetica,Arial,Geneva,Swiss,SunSans-Regular&quot;&gt; &amp;#169; ℗ 2019 KADOKAWA CORPORATION&lt;/font&gt;
+	        
+        &lt;/td&gt;
+    &lt;/tr&gt;
+&lt;/table&gt;
+</content>
+				
+			</entry>
+		
+	</feed>
